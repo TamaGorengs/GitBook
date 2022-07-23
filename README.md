@@ -1,2 +1,2 @@
-# PickleRick Writeups TryHackMe
+# Intro
 
