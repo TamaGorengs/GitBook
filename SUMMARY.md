@@ -19,7 +19,8 @@
 
 ## 🧰 Tools
 
-* [Page 3](tools/page-3.md)
+* [Resources](tools/resources.md)
+* [How to get started with hacking and bug bounties](tools/how-to-get-started-with-hacking-and-bug-bounties.md)
 
 ## 💻 Programming
 
