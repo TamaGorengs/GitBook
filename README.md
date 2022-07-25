@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/itzmauuuroo-hackers-anonymous-hd-wallpaper-preview.jpg
 coverY: 0
 ---
 
