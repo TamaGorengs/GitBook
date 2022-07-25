@@ -10,8 +10,8 @@
 
 ## ⌨ writeups
 
-* [Page 4](writeups/page-4.md)
-* [Page 1](writeups/page-1.md)
+* [OverTheWire](writeups/overthewire/README.md)
+  * [Bandit Writeups](writeups/overthewire/bandit-writeups.md)
 
 ## ✍ notes
 
