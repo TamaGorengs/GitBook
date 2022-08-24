@@ -17,7 +17,10 @@
 
 ## ✍ notes
 
-* [Page 2](notes/page-2.md)
+* [TCM](notes/tcm/README.md)
+  * [Practical Ethical Hacking - The Complete Course](notes/tcm/practical-ethical-hacking-the-complete-course/README.md)
+    * [Networking Refresher](notes/tcm/practical-ethical-hacking-the-complete-course/networking-refresher.md)
+    * [Information Gathering (Reconnaissance)](notes/tcm/practical-ethical-hacking-the-complete-course/information-gathering-reconnaissance.md)
 
 ## 🧰 Tools
 
@@ -31,3 +34,5 @@
 ## 📖 Journal
 
 * [Day 1](journal/day-1.md)
+* [📦 Others](journal/others/README.md)
+  * [Page 1](journal/others/page-1.md)
