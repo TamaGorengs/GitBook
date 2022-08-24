@@ -4,7 +4,9 @@
 
 ## 📍 Fundamenals
 
-* [Linux](fundamenals/linux.md)
+* [Linux](fundamenals/linux/README.md)
+  * [Basics](fundamenals/linux/basics.md)
+  * [Bash Scripting](fundamenals/linux/bash-scripting.md)
 * [Windows](fundamenals/windows.md)
 * [Kali](fundamenals/kali.md)
 
