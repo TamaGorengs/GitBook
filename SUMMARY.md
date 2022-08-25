@@ -7,7 +7,7 @@
 
 ## 📍 Fundamenals
 
-* [Linux 🐉](fundamenals/linux/README.md)
+* [Linux 🐧](fundamenals/linux/README.md)
   * [Basics](fundamenals/linux/basics.md)
   * [Bash Scripting](fundamenals/linux/bash-scripting.md)
 * [Windows 🪟](fundamenals/windows.md)
@@ -20,10 +20,10 @@
 
 ## ✍ notes
 
-* [TCM](notes/tcm/README.md)
-  * [Practical Ethical Hacking - The Complete Course](notes/tcm/practical-ethical-hacking-the-complete-course/README.md)
-    * [Networking Refresher](notes/tcm/practical-ethical-hacking-the-complete-course/networking-refresher.md)
-    * [Information Gathering (Reconnaissance)](notes/tcm/practical-ethical-hacking-the-complete-course/information-gathering-reconnaissance.md)
+* [TCM Security](notes/tcm-security/README.md)
+  * [Practical Ethical Hacking - The Complete Course](notes/tcm-security/practical-ethical-hacking-the-complete-course/README.md)
+    * [Networking Refresher](notes/tcm-security/practical-ethical-hacking-the-complete-course/networking-refresher.md)
+    * [Information Gathering (Reconnaissance)](notes/tcm-security/practical-ethical-hacking-the-complete-course/information-gathering-reconnaissance.md)
 
 ## 🧰 Tools
 
