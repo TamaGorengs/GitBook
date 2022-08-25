@@ -1,14 +1,17 @@
 # Table of contents
 
-* [Intro](README.md)
+## 🙋♂ whoami
+
+* [Introduction](README.md)
+* [Portfolio](whoami/portfolio.md)
 
 ## 📍 Fundamenals
 
-* [Linux](fundamenals/linux/README.md)
+* [Linux 🐉](fundamenals/linux/README.md)
   * [Basics](fundamenals/linux/basics.md)
   * [Bash Scripting](fundamenals/linux/bash-scripting.md)
-* [Windows](fundamenals/windows.md)
-* [Kali](fundamenals/kali.md)
+* [Windows 🪟](fundamenals/windows.md)
+* [Kali 🐉](fundamenals/kali.md)
 
 ## ⌨ writeups
 
@@ -29,7 +32,7 @@
 
 ## 💻 Programming
 
-* [🐍 Python](programming/python.md)
+* [Python 🐍](programming/python.md)
 
 ## 📖 Journal
 
